@@ -1,2 +1,2 @@
-ddef summa(a, b):
+def summa(a, b):
     print(a+b)
